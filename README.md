@@ -1,0 +1,2 @@
+# 260825-SEM-M365-COP-APRO-GM-Priv
+Laboratorios del curso 260825-SEM-M365-COP-APRO-GM-Priv
