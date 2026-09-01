@@ -1,3 +1,5 @@
+<img src="images/neteclogo (2).png" alt="logo" width="300"/>
+
 # Aprovecha Microsoft 365 Copilot para aumentar tu productividad
 
 Los participantes conocerán recomendaciones, técnicas y mejores prácticas para obtener mejores resultados con Microsoft 365 Copilot Chat, aprendiendo a interactuar de manera más efectiva con la herramienta mediante el uso de prompting y de los agentes integrados de Microsoft 365 Copilot para incrementar su productividad, fortalecer la toma de decisiones y optimizar actividades propias de distintas áreas de la organización.
@@ -20,8 +22,14 @@ Los participantes conocerán recomendaciones, técnicas y mejores prácticas par
   - Descripción: Presentación de las capacidades de los agentes Analista, Investigador, Ideas y Prompt Coach mediante escenarios relacionados con una empresa de generación de energía eléctrica, junto con una breve demostración de la creación de un agente personalizado con Agent Builder.
   - Duración estimada: 13 min
 
-## Flujo de colaboración
+-------------------------------------------------------------------------------------------------------------------------------------
 
-- Trabajar en `changes_course`.
-- Crear Pull Request hacia `main`.
-- Merge por `Squash and merge`.
+## 📬 **Contacto y más información**
+
+
+Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página](https://netec.com).
+
+
+---
+
+¡Gracias por visitar nuestra plataforma! No olvides revisar todos los laboratorios y comenzar tu viaje de aprendizaje hoy mismo.
