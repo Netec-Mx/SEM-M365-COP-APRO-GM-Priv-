@@ -4,24 +4,20 @@ Los participantes conocerán recomendaciones, técnicas y mejores prácticas par
 
 ## Estructura
 
-- `CapituloXX/README.md`: guía de laboratorio por capítulo.
+- `Capitulo1/Practica_X.md`: guía de laboratorio por capítulo.
 
 ## Lista de laboratorios
 
 ### Capítulo 1
 
-- [Práctica: El instructor mostrará cómo mejorar los resultados de Microsoft 365 Copilot mediante técnicas de prompting y el uso adecuado del contexto, utilizando ejemplos relacionados con actividades de una empresa del sector de generación de energía eléctrica utilizando Copilot Chat.](Capitulo01/README.md#práctica-el-instructor-mostrará-cómo-mejorar-los-resultados-de-microsoft-365-copilot-mediante-técnicas-de-prompting-y-el-uso-adecuado-del-contexto-utilizando-ejemplos-relacionados-con-actividades-de-una-empresa-del-sector-de-generación-de-energía-eléctrica-utilizando-copilot-chat)
-  - Descripción: Demostración del instructor sobre cómo mejorar los resultados de Microsoft 365 Copilot mediante técnicas de prompting y el uso adecuado del contexto, utilizando ejemplos relacionados con actividades de una empresa del sector de generación de energía eléctrica mediante Copilot Chat.
+- [Práctica 1: Obtención de resultados más precisos con IA.](Capitulo01/Practica_1.md)
+  - Descripción: Analizar información ficticia sobre el desempeño mensual de una instalación de generación eléctrica para identificar variaciones y aspectos relevantes, comprobando cómo la incorporación de contexto, instrucciones específicas y un formato de salida esperado permite obtener conclusiones más precisas y útiles para apoyar el análisis de información.
   - Duración estimada: 6 min
-- [Práctica: El instructor mostrará ejemplos del uso de Copilot en https://m365.cloud.microsoft/, Copilot en Outlook, trabajo con archivos de Excel en https://m365.cloud.microsoft/ y Copilot dentro de Teams con el licenciamiento Básico y Premium, aplicados a escenarios propios del sector energético.](Capitulo01/README.md#práctica-el-instructor-mostrará-ejemplos-del-uso-de-copilot-en-httpsm365cloudmicrosoft-copilot-en-outlook-trabajo-con-archivos-de-excel-en-httpsm365cloudmicrosoft-y-copilot-dentro-de-teams-con-el-licenciamiento-básico-y-premium-aplicados-a-escenarios-propios-del-sector-energético)
-  - Descripción: Demostración de ejemplos del uso de Copilot en https://m365.cloud.microsoft/, Copilot en Outlook, trabajo con archivos de Excel en https://m365.cloud.microsoft/ y Copilot dentro de Teams con licenciamiento Básico y Premium, aplicados a escenarios propios del sector energético.
+- [Práctica 2: Seguimiento integral de una iniciativa de trabajo.](Capitulo01/Practica_2.md)
+  - Descripción: Preparar el seguimiento de una iniciativa relacionada con una empresa del sector de generación eléctrica, recuperando y analizando información distribuida entre comunicaciones, datos y espacios de colaboración para identificar avances, variaciones, acuerdos, pendientes y próximos pasos, y convertirlos en una actualización útil para el equipo.
   - Duración estimada: 20 min
-- [Práctica: El instructor presentará capacidades de los agentes Analista, Investigador, Ideas y Prompt Coach mediante escenarios relacionados con una empresa de generación de energía eléctrica, y realizará una breve demostración de la creación de un agente personalizado con Agent Builder.](Capitulo01/README.md#práctica-el-instructor-presentará-capacidades-de-los-agentes-analista-investigador-ideas-y-prompt-coach-mediante-escenarios-relacionados-con-una-empresa-de-generación-de-energía-eléctrica-y-realizará-una-breve-demostración-de-la-creación-de-un-agente-personalizado-con-agent-builder)
+- [Práctica 3: Análisis y desarrollo de una iniciativa con agentes de IA.](Capitulo01/Practica_3.md)
   - Descripción: Presentación de las capacidades de los agentes Analista, Investigador, Ideas y Prompt Coach mediante escenarios relacionados con una empresa de generación de energía eléctrica, junto con una breve demostración de la creación de un agente personalizado con Agent Builder.
   - Duración estimada: 13 min
 
-## Flujo de colaboración
 
-- Trabajar en `changes_course`.
-- Crear Pull Request hacia `main`.
-- Merge por `Squash and merge`.
